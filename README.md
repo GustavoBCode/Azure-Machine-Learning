@@ -8,22 +8,23 @@ Links utilizados no projeto:
 # 1 - Criando um recurso 
 Na tela inicial você vai clicar em **Criar um recurso**, na barra de **Categorias** você vai clicar em **Análises** e depois clicar no botão **Criar**.
 
-imagens 1 e 2
+![imagens](./Imagens/1.png)
+
+![imagens](./Imagens/2.png)
 
 Caso você não tenha um **Grupo de recursos*** click em **Criar novo** e nomeie como **LABAI-900**, agora escreva **laboratorioai900** no campo **Nome***.
 
-imagem 3
+![imagens](./Imagens/3.png)
 
 Após esse processo click em **Examinar + criar**. Caso aparesa **Validação aprovada** é só clikar no botão **Criar**
 
-imagem 4
+![imagens](./Imagens/4.png)
 
 Agora que a implantação foi concluída clique em **Ir para o recurso**
 
-imagem 5
+![imagens](./Imagens/5.png)
 
 Depois clique em **Iniciar o estúdio**
 
-imagem 6
-
+![imagens](./Imagens/6.png)
 
