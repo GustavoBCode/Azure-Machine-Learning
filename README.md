@@ -111,7 +111,7 @@ imagem 22
 
 imagem 23
 
-3.6 - Após um longo tempo de espera, clique em **Testar** 
+3.6 - Após um longo tempo de espera, copie o código que esta abaixo e clique em **Testar**.
 
 ``` JASON
 {
@@ -135,6 +135,7 @@ imagem 23
     }
   }
 ```
+3.7 - Esse é o resultado do teste: 361.95
 
 
 
