@@ -89,6 +89,30 @@ Links utilizados no projeto:
 
 ![18](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/45621eb9-2691-43cb-9cc6-efa856a843c1)
 
+# 3 - Análise e Teste de Modelo
+
+3.1 - Clique em **Modelo de registro**, depois em **Avançar**, nomeie alguns campos: **Nome** como "mslearnbikeauto", **Versão** como "*1*". Em seguida, clique em **Avançar** e depois clique em **Registro**.
+
+imagem 19
+
+3.2 - Selecione **Modelos**. Em seguida, clique em **mslearn-bike-automl_2**
+
+imagem 20
+
+3.3 - Ao clicar em **Métricas** podemos visializar todas as métricas que foram obtidas atravez do banco de dados.
+
+imagem 21
+
+3.4 - Agora vamos testar um modelo atravez da ferramenta de pontos de extremidades. Salecione **Pontos de extrimdade**, depois clique em **Criar**, em seguidada clique em **Selecionar**.
+
+imagem 22
+
+3.5 - Clique em **Implantar**
+
+imagem 23
+
+3.6 - Após um longo tempo de espera, clique em **Testar** 
+
 
 
 
