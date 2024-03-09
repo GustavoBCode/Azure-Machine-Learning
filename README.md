@@ -91,27 +91,30 @@ Links utilizados no projeto:
 
 # 3 - Análise e Teste de Modelo
 
-3.1 - Clique em **Modelo de registro**, depois em **Avançar**, nomeie alguns campos: **Nome** como "mslearnbikeauto", **Versão** como "*1*". Em seguida, clique em **Avançar** e depois clique em **Registro**.
+3.1 - Clique em **Modelo de Registro** e depois em **Avançar**. Nomeie os campos: **Nome** como "mslearnbikeauto", e **Versão** como "**1**". Em seguida, clique em **Avançar** e depois em **Registro**.
 
-imagem 19
+![19](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/018197c1-2e71-42a0-94f9-4cbbd02fdd2f)
 
-3.2 - Selecione **Modelos**. Em seguida, clique em **mslearn-bike-automl_2**
+3.2 - Selecione **Modelos** e em seguida, clique em **mslearn-bike-automl_2**.
 
-imagem 20
+![20](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/809273f4-8129-4cd2-967e-06f1e49aba73)
 
-3.3 - Ao clicar em **Métricas** podemos visializar todas as métricas que foram obtidas atravez do banco de dados.
+3.3 - Ao clicar em **Métricas**, é possível visualizar todas as métricas obtidas a partir do banco de dados.
 
-imagem 21
+![21](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/5677f6b7-8b9c-4de2-909b-5d7c95d8e459)
 
-3.4 - Agora vamos testar um modelo atravez da ferramenta de pontos de extremidades. Salecione **Pontos de extrimdade**, depois clique em **Criar**, em seguidada clique em **Selecionar**.
+3.4 - Para testar um modelo através da ferramenta de pontos de extremidade, selecione **Pontos de Extremidade**, clique em **Criar** e, em seguida, clique em **Selecionar**.
 
-imagem 22
+![22](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/babd26c6-aaea-42e6-9f08-bd207f860a66)
 
 3.5 - Clique em **Implantar**
 
-imagem 23
+![23](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/a66e739d-6fef-412c-ae85-a720f6e9ab1b)
 
-3.6 - Após um longo tempo de espera, copie o código que esta abaixo e clique em **Testar**.
+3.6 - Após um longo tempo de espera, clique em **Testar** e copie o código abaixo. Em seguida, cole o código no campo **Input** e clique em **Teste**.
+
+![24](https://github.com/GustavoBCode/Azure-Machine-Learning/assets/146696103/c9f7f6c5-5e02-4f71-a83b-1190f3156959)
+
 
 ``` JASON
 {
@@ -135,7 +138,8 @@ imagem 23
     }
   }
 ```
-3.7 - Esse é o resultado do teste: 361.95
+
+3.7 - Após realizar o teste, o resultado obtido foi: **361.95**.
 
 
 
